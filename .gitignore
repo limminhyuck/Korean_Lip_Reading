@@ -21,6 +21,7 @@ answer/
 csv/
 korea_data/
 train/
+model/
 
 camera_test.ipynb
 model_test.ipynb
